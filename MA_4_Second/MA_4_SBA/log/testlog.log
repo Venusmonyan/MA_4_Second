@@ -1,0 +1,49 @@
+2021-11-18 16:58:41,468 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 16:58:42,372 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 16:58:42,808 - user_clicks_on_search -INFO - Opening URL
+2021-11-18 17:00:15,093 - user_clicks_on_search -INFO - Search Button Clicked
+2021-11-18 17:00:15,597 - user_on_the_Search_page_enters_the_Text_in_the_search_Bar -INFO - Enters Text
+2021-11-18 17:00:15,677 - user_on_the_Search_page_enters_the_Text_in_the_search_Bar -INFO - Searches the Text
+2021-11-18 17:00:17,322 - verify_if_the_text_is_present_in_search_Results_Page -INFO - RESULT FOR RESULTS FOR 'paper'is Found
+2021-11-18 17:06:59,231 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:06:59,836 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:07:02,135 - user_clicks_on_search -INFO - Search Button Clicked
+2021-11-18 17:07:02,646 - user_on_the_Search_page_enters_the_Text_in_the_search_Bar -INFO - Enters Text
+2021-11-18 17:07:02,715 - user_on_the_Search_page_enters_the_Text_in_the_search_Bar -INFO - Searches the Text
+2021-11-18 17:07:03,807 - verify_if_the_text_is_present_in_search_Results_Page -INFO - RESULT FOR RESULTS FOR 'paper'is Found
+2021-11-18 17:24:49,440 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:24:50,572 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:24:52,643 - user_clicks_on_TipsAndArticles -INFO - Clicks on TIPS & Articles
+2021-11-18 17:24:53,930 - verify_if_the_article_is_present_in_Tips_and_Articles_Page -INFO - How To Green Clean Your Homeis Found
+2021-11-18 17:26:40,366 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:26:41,142 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:26:43,029 - user_clicks_on_TipsAndArticles -INFO - Clicks on TIPS & Articles
+2021-11-18 17:26:44,169 - verify_if_the_article_is_present_in_Tips_and_Articles_Page -INFO - How To Green Clean Your Homeis Found
+2021-11-18 17:44:44,549 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:44:45,171 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:45:35,278 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:45:43,716 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:45:44,434 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:47:18,863 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:47:19,843 - verify_if_is_present_in_Essentials_Select_A_Size_Page -ERROR - Write a reviewis not Found
+2021-11-18 17:49:21,089 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:49:21,805 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:49:22,665 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:49:44,931 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:49:56,724 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:49:57,342 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:49:58,267 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:51:17,744 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:51:33,747 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:51:34,463 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:51:35,430 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:52:27,128 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:52:53,486 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:52:54,255 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:52:55,161 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:53:09,026 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:53:14,511 - user_launch_Chrome_browser_and_opens_url -INFO - Opening URL
+2021-11-18 17:53:15,427 - user_launch_Chrome_browser_and_opens_url -INFO - URL Opened
+2021-11-18 17:53:16,369 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:54:40,568 - user_clicks_on_Essentials_Select_A_Size_on_Footer -INFO - Clicks on Essentials Select-A-Size Button
+2021-11-18 17:54:41,328 - verify_if_is_present_in_Essentials_Select_A_Size_Page -INFO - Write a reviewis Found

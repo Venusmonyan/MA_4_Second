@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 83.899 s <<< FAILURE! - in TestSuite
+com.mindtree.runner.LoginTestClass.loginTest[abc@gmail.com, rty1236](2)  Time elapsed: 11.638 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.mindtree.runner.LoginTestClass.loginTest(LoginTestClass.java:62)
+
+com.mindtree.runner.LoginTestClass.loginTest[Username_1, rty124$](3)  Time elapsed: 11.479 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.mindtree.runner.LoginTestClass.loginTest(LoginTestClass.java:62)
+
+com.mindtree.runner.LoginTestClass.loginTest[Username_2, rty_125](4)  Time elapsed: 11.308 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.mindtree.runner.LoginTestClass.loginTest(LoginTestClass.java:62)
+
+com.mindtree.runner.LoginTestClass.loginTest[Username_3, rty126rty](5)  Time elapsed: 11.378 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.mindtree.runner.LoginTestClass.loginTest(LoginTestClass.java:62)
+
+com.mindtree.runner.LoginTestClass.loginTest[Username_4, rty127e](6)  Time elapsed: 12.482 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.mindtree.runner.LoginTestClass.loginTest(LoginTestClass.java:62)
+
